@@ -1,0 +1,200 @@
+@media screen and (max-width: 600px){
+	
+	.container{
+		width:100% !important;
+	}
+	.mainmenu {
+    width: 100%;
+    float: left;
+	margin-bottom:20px;
+	}
+	.logo {
+    width: 100%;
+    float: left;
+    padding: 11px 0 0px;}
+	.mainmenu ul li {
+    float: left;
+    margin-right: 35px;
+	padding:5px 0;
+	}
+	.container .phone {
+    width: 100%;
+ }
+ .container .email {
+    width: 100%;
+ }
+	.container .social {
+    width: 100%;
+ }
+.maintext h1{
+	width:100%;
+	font-size:30px;
+}
+.slidercontent1 {
+    padding: 33px 0 2px;
+}
+.slidercontent1 .paratext {
+    padding: 10px 0 20px;
+}
+.slidercontent1 .paratext p {
+   display:none;
+}
+.workbutton {
+    padding: 10px 0 25px;
+}
+.services {
+    padding-top: 45px;
+    padding-bottom: 15px;
+}
+.containwrappar {
+    padding: 0 15px 0 15px;
+    flex: 100%;
+margin-bottom: 30px;}
+
+.textteam {
+    float: right;
+    width: 100%;
+margin-top: 20px;}
+.imageteam {
+width: 100%;}
+section.ourteammain {
+    padding: 45px 0;
+}
+section.whychoseyour{
+	padding: 0;
+	padding-top:40px;
+}
+.singleboxwhy {
+    flex: 100%;
+    margin-bottom: 45px;
+}
+section.moreformus {
+    background-color: #f6f6f5;
+padding: 30px 0px 10px;}
+.sboximgmore {
+width: 100%;
+margin-bottom:25px;}
+.moreimg img {
+    width: 100%;
+height: 300px;}
+.sboxtextmore h2 {
+margin-top: 140px;}
+section.pricingplan {
+    padding: 35px 0px 15px;
+}
+.headtextplan p {
+    width: 100%;
+margin-bottom:35px;}
+.blankplan {
+width: 100%;
+margin-bottom:25px;}
+.letestidearight {
+    float: right;
+width: 100%;
+padding:26px;}
+.letestidealeft{
+display:none;}
+.ideacontenttext {
+    width: 100%;
+}
+.headtextplan p {
+    width: 100%;
+	margin:0;
+    margin-bottom: 11px;
+    padding: 15px;
+}
+#meetourteam {
+padding: 35px 0px;}
+.meetourteamimage {
+width: 100%;
+margin-bottom:30px;}
+.meetourteambutton {
+margin-top: 0px;}
+#ourbestproject {
+    padding: 35px 0px;
+}
+.headtextplan p {
+    width: 100%;
+    margin: 15px 0;
+    margin-bottom: 23px;
+    padding: 0;
+}
+.projectlayout {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-gap: 30px;
+}
+#ourblogpost {
+    padding: 30px 0 35px;
+}
+.rowblog {
+    width: 100%;
+    margin: 15px 0;
+}
+.sbfootercontent2 p {
+font-size: 15px;}
+.sbfootercontent {
+    flex: 100%;
+    margin: 15px 15px;
+}
+.sbfootercontent1 {
+    padding-left: 35px;
+    padding-right: 10px;
+}
+.sbfootercontent2 {
+    margin-left: 35px;
+}
+.sbfootercontent3 {
+    margin-left: 35px;
+}
+.footerboxparent {
+    flex: 100%;
+	max-width:100%;
+    margin-bottom: 30px;
+    padding-right: 15px;
+}
+.footerparent {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    padding-top: 130px;
+    padding-bottom: 0px;
+}
+.copyrightcontainer{
+	padding:10px 0px;
+}
+.copyrightmenu {
+width: 100%;}
+.copyrighttext {
+width: 100%;
+padding: 10px 0px;}
+.copyrightmenu ul {
+    float: left;
+}
+.headtextplan h2{
+	font-size:32px;
+}
+.headtextplan h2::after {
+    content: '';
+    width: 60px;
+    height: 3px;
+    background: #ff5200;
+    display: inline-block;
+    position: absolute;
+    top: 100%;
+    left: 40%;
+}
+.teamheader h2 {
+font-size: 28px;}
+.workbutton a {
+padding: 8px 22px;}
+div.topmain {
+display: none;}
+.primarymenu.stickbar {
+    display: block;
+}
+.topmenubarnn {
+    display: none;
+}
+}
